@@ -1,0 +1,9 @@
+int const main(){
+	printf("1312312");
+	char !resourceP[20000];
+	char to$$ken[20]={1.1};
+	if ((fp = fopen("d:\\test","r")) == NULL){
+		exit(0);
+	}
+	return 0;
+}
